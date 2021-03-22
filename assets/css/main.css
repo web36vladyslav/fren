@@ -1,0 +1,85 @@
+
+* {
+   box-sizing: border-box;
+   font-family: fantasy; }
+
+main {
+    background: rgb(198, 210, 214);
+    
+}
+
+main > div { 
+    text-align: center;  
+    padding: 3rem;
+    
+}
+
+.a {
+   
+    background:white;
+    box-shadow: 3px 3px 3px rgb(29, 24, 24);
+    text-align: center;
+  
+    
+}
+
+.b {
+    font-size: 30px;
+    box-shadow: 3px 3px 3px rgb(29, 24, 24);
+    padding-top: 125px;
+    background: white;
+    color: rgb(76, 180, 76);
+}
+
+.c {
+    font-size: 30px;
+    color: rgb(35, 143, 35);
+    box-shadow: 3px 3px 3px rgb(29, 24, 24);
+    padding-top: 125px;
+    background: white;
+}
+
+.d {
+    font-size: 30px;
+    color: rgb(61, 117, 61);
+    box-shadow: 3px 3px 3px rgb(29, 24, 24);
+    padding-top: 125px;
+    background:white;
+}
+
+.e {
+    font-size: 20px;
+    text-align: justify;
+    box-shadow: 3px 3px 3px rgb(29, 24, 24);
+   padding-top: 95px;
+    background: white;
+     color:black;
+     text-align: center;
+}
+
+#pop{
+    color:gray ;
+   font-size: 15px;
+}
+#pip{
+    font-size: 15px;
+    color: gray;
+    padding-top: 10%;
+}
+img{
+    text-align: center;
+    border-radius: 100%;
+    max-width: 100%;
+    padding-top: 20%;
+    
+    
+}
+#lol{
+    padding-top: 10%;
+}
+button{
+    background-color: rgb(42, 197, 42);
+    color: honeydew;
+    font-size: 16px;
+   font-family: cursive;
+}
